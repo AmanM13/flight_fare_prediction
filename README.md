@@ -4,7 +4,7 @@
   * [Demo](#demo)
   * [Overview](#overview)
   * [Installation](#installation)
-  * [Deployement on Heroku](#deployement-on-heroku)
+  * [Deployment on Heroku](#deployment-on-heroku)
   * [Directory Tree](#directory-tree)
   * [Future scope of project](#future-scope)
 
